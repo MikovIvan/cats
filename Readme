@@ -16,4 +16,3 @@
 ## Optional:
 1. You can try Kotlin scripts for build system.
 2. Cover logic with unit tests (Spek2 + Mockk)
-
